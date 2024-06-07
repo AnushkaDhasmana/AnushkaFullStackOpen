@@ -9,7 +9,7 @@ The course covers testing, configuration and environment management, the use of 
 ## Links to Respective Directories 
 
 #### [Part 0 - Fundamentals of Web Apps](./part0)
-#### [Part 1 - Introduction to React]()
+#### [Part 1 - Introduction to React](./part1)
 #### [Part 2 - Communicating with server]()
 #### [Part 3 - Programming a server with NodeJS and Express]()
 #### [Part 4 - Testing Express servers, user administration]()
